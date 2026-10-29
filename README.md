@@ -39,6 +39,7 @@ AI tool directories exploded in 2023–2025. Some now drive serious traffic to A
 - **[FutureTools](https://futuretools.io)** · DR 55 · dofollow · free — Matt Wolfe's directory.
 - **[TopAI.tools](https://topai.tools)** · DR 55 · dofollow · paid
 - **[Futurepedia](https://www.futurepedia.io)** · DR 42 · conditional dofollow · free + paid tier
+- **[EliteAI.tools](https://eliteai.tools)** · DR 41 · dofollow (302) · paid from $10 — Curated AI tool directory with 40,000+ tools, separate MCP server and agent-skills indexes, and tool pages that return structured Markdown to agents.
 - **[AI Tools Directory](https://aitoolsdirectory.com)** · DR 40 · nofollow · free
 - **[BAI.tools](https://bai.tools)** · DR 40 · conditional dofollow · free + paid tier
 - **[Supertools](https://supertools.therundown.ai)** · DA 38 · dofollow · free — Part of The Rundown AI.
